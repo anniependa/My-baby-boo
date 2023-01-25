@@ -4,18 +4,18 @@ My first repository to write
 I will write on bioinformatics we have done from 23 January-27 January
 
 # Day One
-Installation of tools
+**Installation of tools**
 
-Install Gitbash
-Install 
-Install R and R studio
+Install
+1. Gitbash
+2. R and R studio
 
 # Day Two
-Introduction top command line
+**Introduction top command line**
 
 # Day Three
 
-Introduction to Git
+**Introduction to Git**
  
 
 
