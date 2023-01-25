@@ -24,7 +24,7 @@ Install
  - How can I edit files?
 ### Reading materials
 - [Capentries resources](https://swcarpentry.github.io/shell-novice/)
-- [Introduction to bash](:https://winfrednyoroka.github.io/2023_01_23_Laikipia_Uni_online/) 
+- [Introduction to bash](https://winfrednyoroka.github.io/2023_01_23_Laikipia_Uni_online/) 
 # Day Three
 
 **Introduction to Git**
