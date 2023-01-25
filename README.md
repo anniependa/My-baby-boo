@@ -23,8 +23,8 @@ Install
  -  How can I create, copy, and delete files and directories?
  - How can I edit files?
 ### Reading materials
-- [capentries resources](https://swcarpentry.github.io/shell-novice/)
-
+- [Capentries resources](https://swcarpentry.github.io/shell-novice/)
+- [Introduction to bash](:https://winfrednyoroka.github.io/2023_01_23_Laikipia_Uni_online/) 
 # Day Three
 
 **Introduction to Git**
