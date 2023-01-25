@@ -1,7 +1,7 @@
-# My-baby-boo
+# My-first-text
 My first repository to write
 
-I will write on bioinformaticswe have done from 23 January-27 January
+I will write on bioinformatics we have done from 23 January-27 January
 
 # Day One
 Installation of tools
